@@ -1,11 +1,10 @@
 # supercharge-jpeg-metadata-ai
-Improve accuracy and detail of existing JPEG title and description using AI.
 
-Metadata plays a crucial role in the way we interact with and manage our digital images. It helps in organizing, searching, and providing valuable information about the content of your photos. Now, imagine enhancing this metadata using the power of AI. This blog post introduces a Python script that uses PhotoTag.ai's AI technology to automatically fetch, enhance, and write improved metadata for your images.
+Metadata plays a crucial role in the way we interact with and manage our digital images. It helps in organizing, searching, and providing valuable information about the content of your photos. Now, imagine enhancing this metadata using the power of AI. This blog post introduces a Python script that uses [PhotoTag.ai](https://phototag.ai/)'s AI technology to automatically fetch, enhance, and write improved metadata for your images.
 
 ## What You Need
 - **Python**: A programming language that lets you work quickly and integrate systems more effectively.
-- **PhotoTag.ai API Token**: Access to an AI service that generates metadata based on the existing content of your images.
+- **[PhotoTag.ai](https://phototag.ai/) API Token**: Access to an AI service that generates metadata based on the existing content of your images.
 - **Basic Programming Knowledge**: While the script is beginner-friendly, having a basic understanding of programming concepts will help.
 
 ## Setting Up Your Environment
