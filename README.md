@@ -46,6 +46,8 @@ python metadata_enhancer.py
 
 This command starts the GUI application, where you can select a folder containing the images you want to enhance. The script processes each image in the folder, fetching and enhancing its metadata using AI, and then writes the updated metadata back to the image.
 
+![Screenshot 2024-02-18 at 8.36.03 PM.png](https://res.cloudinary.com/ddnugojjc/image/upload/v1708306574/Screenshot_2024_02_18_at_8_36_03_PM_b5a7d7f582.png)
+
 ## Understanding the Code
 The script is divided into several functions, each handling a specific part of the process:
 - `fetch_existing_metadata(image_path)`: Reads the existing title and description from an image's metadata.
